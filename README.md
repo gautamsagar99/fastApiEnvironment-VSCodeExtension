@@ -9,4 +9,4 @@ This Extension will be very useful for creatating entire fast api environment. T
 
 # Here is the sample video
 
-![](/video.gif)
+![](https://github.com/gautamsagar99/fastApiEnvironment-VSCodeExtension/blob/master/video.gif?raw=true)
